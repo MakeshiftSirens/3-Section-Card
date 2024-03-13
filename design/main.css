@@ -76,12 +76,33 @@ section {
     color: hsl(31, 77%, 52%);
 }
 
+.first:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+
 .second {
     color: hsl(184, 100%, 22%);
 }
 
+.second:hover {
+    background-color: hsl(184, 100%, 22%);
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+
 .third {
     color: hsl(179, 100%, 13%);
+}
+
+.third:hover {
+    background-color: hsl(179, 100%, 13%);
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: pointer;
 }
 
 .attribution { 
