@@ -1,0 +1,99 @@
+/*
+============
+Index
+============
+
+
+*/
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.sectionTitle {
+    font-family: "Big Shoulder Display", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    margin: 30px 0 30px 0;
+    font-stretch: extra-condensed;
+}
+
+.text {
+    font-family: "Lexend Deca", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #fff;
+    margin: 75px 0 100px 0;
+    word-spacing: 5px;
+    line-height: 30px;
+}
+
+section {
+    display: inline-block;
+    vertical-align: top;
+    width: 33.33%;
+    height: 633px;
+    margin: 0 auto;
+    padding: 50px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    color: #fff
+}
+
+.icon {
+    margin: 0 0 30px 0;
+}
+
+.column {
+    background: hsl(31, 77%, 52%);
+}
+
+.column-2 {
+    background: hsl(184, 100%, 22%);
+}
+
+.column-3 {
+    background: hsl(179, 100%, 13%);
+}
+
+.button {
+    background-color: #fff;
+    font-family: "Lexand Deca", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+    padding: 15px 25px;
+    border-radius: 25px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.first {
+    color: hsl(31, 77%, 52%);
+}
+
+.second {
+    color: hsl(184, 100%, 22%);
+}
+
+.third {
+    color: hsl(179, 100%, 13%);
+}
+
+.attribution { 
+    font-size: 12px; 
+    text-align: center; 
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #fff;
+}
+
+.attribution a {
+    color: #fff;
+}
