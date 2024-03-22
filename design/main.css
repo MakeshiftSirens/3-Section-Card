@@ -13,7 +13,7 @@ body {
 
 .sectionTitle {
     font-family: "Big Shoulder Display", Arial, Helvetica, sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 48px;
     margin: 30px 0 30px 0;
     font-stretch: extra-condensed;
@@ -21,7 +21,7 @@ body {
 
 .text {
     font-family: "Lexend Deca", Arial, Helvetica, sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 20px;
     color: #fff;
     margin: 75px 0 100px 0;
